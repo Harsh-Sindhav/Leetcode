@@ -13,10 +13,15 @@ class Solution {
     
     boolean noCommonLetters(String s,String t){
     
-        for(char ch : s.toCharArray()){
-            if(t.indexOf(ch) != -1) return false;
-        }
-        return true;
+     int bitmask1 = 0 ,bitmask2 = 0;
+        
+        for(char a : s.toCharArray())
+            bitmask1 |= 1 << (a - 'a');
+         for(char a : t.toCharArray())
+            bitmask2 |= 1 << (a - 'a');
+        
+        
+        return (bitmask1 & bitmask2)== 0;
     }
     
 }
