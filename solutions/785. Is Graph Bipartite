@@ -1,0 +1,43 @@
+class Solution {
+    public boolean isBipartite(int[][] graph) {
+        if(graph.length == 1) return true;
+            boolean[] vis = new boolean[graph.length];
+            for(int i = 0;i<graph.length;i++){
+                if(!vis[i]){
+                  boolean ans = bipartite(graph,vis,i);
+                    if(!ans) return false;
+                }
+            }
+          return true;
+    }
+   
+    boolean bipartite(int[][] graph,boolean[] vis,int src){
+         ArrayList<HashSet<Integer>> sets = new ArrayList(2);
+         sets.add(0,new HashSet());
+         sets.add(1,new HashSet());
+        ArrayList<Integer> q = new ArrayList();
+        q.add(src);
+        sets.get(0).add(0);
+    
+    
+        while(!q.isEmpty()){
+            int cur = q.remove(q.size()-1);
+            vis[cur] = true;
+            int curset = sets.get(0).contains(cur) ? 0 : 1;
+            int[] t = graph[cur];
+            for(int nbrs : t){
+                if(!sets.get(0).contains(nbrs) && !sets.get(1).contains(nbrs)){
+                    sets.get(1-curset).add(nbrs);
+                    q.add(nbrs);
+                }
+                else if(sets.get(curset).contains(nbrs)) return false;
+            }
+            }
+        return true;
+    
+        }
+        
+        
+    
+​
+}
