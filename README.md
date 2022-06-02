@@ -27,6 +27,7 @@
 |785|[ Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)|[Java](./solutions/785.%20Is%20Graph%20Bipartite%3F.java)|5 ms|
 |787|[ Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)|[Java](./solutions/787.%20Cheapest%20Flights%20Within%20K%20Stops.java)|6 ms|
 |796|[ Rotate String](https://leetcode.com/problems/rotate-string/)|[Java](./solutions/796.%20Rotate%20String.java)|0 ms|
+|867|[ Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|[Java](./solutions/867.%20Transpose%20Matrix.java)|0 ms|
 |871|[ Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/)|[Java](./solutions/871.%20Minimum%20Number%20of%20Refueling%20Stops.java)|10 ms|
 |1342|[ Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[Java](./solutions/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.java)|0 ms|
 |1461|[ Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/)|[Java](./solutions/1461.%20Check%20If%20a%20String%20Contains%20All%20Binary%20Codes%20of%20Size%20K.java)|320 ms|
