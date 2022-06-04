@@ -43,6 +43,7 @@
 |1579|[ Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/)|[Java](./solutions/1579.%20Remove%20Max%20Number%20of%20Edges%20to%20Keep%20Graph%20Fully%20Traversable.java)|49 ms|
 |1752|[ Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/)|[Java](./solutions/1752.%20Check%20if%20Array%20Is%20Sorted%20and%20Rotated.java)|0 ms|
 |1928|[ Minimum Cost to Reach Destination in Time](https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time/)|[Java](./solutions/1928.%20Minimum%20Cost%20to%20Reach%20Destination%20in%20Time.java)|2691 ms|
+|2202|[ Maximize the Topmost Element After K Moves](https://leetcode.com/problems/maximize-the-topmost-element-after-k-moves/)|[Java](./solutions/2202.%20Maximize%20the%20Topmost%20Element%20After%20K%20Moves.java)|50 ms|
 |2283|[ Check if Number Has Equal Digit Count and Digit Value](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/)|[Java](./solutions/2283.%20Check%20if%20Number%20Has%20Equal%20Digit%20Count%20and%20Digit%20Value.java)|2 ms|
 |2284|[ Sender With Largest Word Count](https://leetcode.com/problems/sender-with-largest-word-count/)|[Java](./solutions/2284.%20Sender%20With%20Largest%20Word%20Count.java)|58 ms|
 |2285|[ Maximum Total Importance of Roads](https://leetcode.com/problems/maximum-total-importance-of-roads/)|[Java](./solutions/2285.%20Maximum%20Total%20Importance%20of%20Roads.java)|6 ms|
