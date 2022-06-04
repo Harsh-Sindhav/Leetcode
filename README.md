@@ -27,6 +27,7 @@
 |318|[ Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)|[Java](./solutions/318.%20Maximum%20Product%20of%20Word%20Lengths.java)|711 ms|
 |347|[ Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Java](./solutions/347.%20Top%20K%20Frequent%20Elements.java)|19 ms|
 |387|[ First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Java](./solutions/387.%20First%20Unique%20Character%20in%20a%20String.java)|32 ms|
+|437|[ Path Sum III](https://leetcode.com/problems/path-sum-iii/)|[Java](./solutions/437.%20Path%20Sum%20III.java)|15 ms|
 |543|[ Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[Java](./solutions/543.%20Diameter%20of%20Binary%20Tree.java)|1 ms|
 |692|[ Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)|[Java](./solutions/692.%20Top%20K%20Frequent%20Words.java)|6 ms|
 |778|[ Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/)|[Java](./solutions/778.%20Swim%20in%20Rising%20Water.java)|31 ms|
