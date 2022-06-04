@@ -9,7 +9,7 @@
 |29|[ Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|[Java](./solutions/29.%20Divide%20Two%20Integers.java)|1 ms|
 |34|[ Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Java](./solutions/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.java)|0 ms|
 |49|[ Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Java](./solutions/49.%20Group%20Anagrams.java)|10 ms|
-|51|[ N-Queens](https://leetcode.com/problems/n-queens/)|[Java](./solutions/51.%20N-Queens.java)|5 ms|
+|51|[ N-Queens](https://leetcode.com/problems/n-queens/)|[Java](./solutions/51.%20N-Queens.java)|4 ms|
 |72|[ Edit Distance](https://leetcode.com/problems/edit-distance/)|[Java](./solutions/72.%20Edit%20Distance.java)|14 ms|
 |75|[ Sort Colors](https://leetcode.com/problems/sort-colors/)|[Java](./solutions/75.%20Sort%20Colors.java)|0 ms|
 |82|[ Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[Java](./solutions/82.%20Remove%20Duplicates%20from%20Sorted%20List%20II.java)|1 ms|
