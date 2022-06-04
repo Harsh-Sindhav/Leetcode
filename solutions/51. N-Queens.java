@@ -11,52 +11,44 @@ class Solution {
             }
         }
 ​
-        backtrack(0, new HashSet<>(), new HashSet<>(), new HashSet<>(), emptyBoard);
+        placeQueens(emptyBoard,0);
         return solutions;
     }
     
-    // Making use of a helper function to get the
-    // solutions in the correct output format
-    private List<String> createBoard(char[][] state) {
-        List<String> board = new ArrayList<String>();
-        for (int row = 0; row < size; row++) {
-            String current_row = new String(state[row]);
-            board.add(current_row);
+   private  void placeQueens(char board[][],int row) {
+    int n = board.length;
+    if(row ==n) {  // prints all possible positions
+          List<String> ans = new ArrayList<String>();
+        for (int rowdash= 0; rowdash < size; rowdash++) {
+            String current_row = new String(board[rowdash]);
+            ans.add(current_row);
         }
-        
-        return board;
-    }
-    
-    private void backtrack(int row, Set<Integer> diagonals, Set<Integer> antiDiagonals, Set<Integer> cols, char[][] state) {
-        // Base case - N queens have been placed
-        if (row == size) {
-            solutions.add(createBoard(state));
-            return;
-        }
-        
-        for (int col = 0; col < size; col++) {
-            int currDiagonal = row - col;
-            int currAntiDiagonal = row + col;
-            // If the queen is not placeable
-            if (cols.contains(col) || diagonals.contains(currDiagonal) || antiDiagonals.contains(currAntiDiagonal)) {
-                continue;    
-            }
-            
-            // "Add" the queen to the board
-            cols.add(col);
-            diagonals.add(currDiagonal);
-            antiDiagonals.add(currAntiDiagonal);
-            state[row][col] = 'Q';
-​
-            // Move on to the next row with the updated board state
-            backtrack(row + 1, diagonals, antiDiagonals, cols, state);
-​
-            // "Remove" the queen from the board since we have already
-            // explored all valid paths using the above function call
-            cols.remove(col);
-            diagonals.remove(currDiagonal);
-            antiDiagonals.remove(currAntiDiagonal);
-            state[row][col] = '.';
-        }
-    }
+        solutions.add(ans);
+        return;
+    }
+    for (int cols = 0; cols < board.length; cols++) {
+        if(isItsafePlaceForTheQueen(board, row, cols)){
+            board[row][cols] = 'Q';
+            placeQueens(board, row + 1);
+            board[row][cols]='.';
+        }
+    }
 }
+​
+​
+public  boolean isItsafePlaceForTheQueen(char board[][],int row,int cols) {
+    // check if 1 is present on top left diagonal
+    for(int i = row -1,j = cols-1;i >=0 && j>=0; i--,j--) {
+        if (board[i][j] =='Q') {
+            return false;
+        }
+    }
+    // check if 1 is present on bottom right diagonal  
+    for(int i = row +1,j = cols+1;i < board.length && j <board.length;i++,j++) {
+        if (board[i][j] =='Q') {
+            return false;
+        }
+    }
+    // check if 1 is present on top right diagonal 
+        for(int i = row -1,j = cols+1;i>=0 && j<board.length;i--,j++) {
+            if (board[i][j] =='Q') {
