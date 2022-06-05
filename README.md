@@ -44,6 +44,7 @@
 |1461|[ Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/)|[Java](./solutions/1461.%20Check%20If%20a%20String%20Contains%20All%20Binary%20Codes%20of%20Size%20K.java)|320 ms|
 |1463|[ Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/)|[Java](./solutions/1463.%20Cherry%20Pickup%20II.java)|44 ms|
 |1480|[ Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Java](./solutions/1480.%20Running%20Sum%20of%201d%20Array.java)|0 ms|
+|1552|[ Magnetic Force Between Two Balls](https://leetcode.com/problems/magnetic-force-between-two-balls/)|[Java](./solutions/1552.%20Magnetic%20Force%20Between%20Two%20Balls.java)|76 ms|
 |1579|[ Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/)|[Java](./solutions/1579.%20Remove%20Max%20Number%20of%20Edges%20to%20Keep%20Graph%20Fully%20Traversable.java)|49 ms|
 |1752|[ Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/)|[Java](./solutions/1752.%20Check%20if%20Array%20Is%20Sorted%20and%20Rotated.java)|0 ms|
 |1928|[ Minimum Cost to Reach Destination in Time](https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time/)|[Java](./solutions/1928.%20Minimum%20Cost%20to%20Reach%20Destination%20in%20Time.java)|2691 ms|
