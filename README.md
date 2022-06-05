@@ -50,3 +50,4 @@
 |2283|[ Check if Number Has Equal Digit Count and Digit Value](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/)|[Java](./solutions/2283.%20Check%20if%20Number%20Has%20Equal%20Digit%20Count%20and%20Digit%20Value.java)|2 ms|
 |2284|[ Sender With Largest Word Count](https://leetcode.com/problems/sender-with-largest-word-count/)|[Java](./solutions/2284.%20Sender%20With%20Largest%20Word%20Count.java)|58 ms|
 |2285|[ Maximum Total Importance of Roads](https://leetcode.com/problems/maximum-total-importance-of-roads/)|[Java](./solutions/2285.%20Maximum%20Total%20Importance%20of%20Roads.java)|6 ms|
+|2293|[ Min Max Game](https://leetcode.com/problems/min-max-game/)|[Java](./solutions/2293.%20Min%20Max%20Game.java)|3 ms|
