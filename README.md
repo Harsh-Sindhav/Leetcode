@@ -51,3 +51,4 @@
 |2284|[ Sender With Largest Word Count](https://leetcode.com/problems/sender-with-largest-word-count/)|[Java](./solutions/2284.%20Sender%20With%20Largest%20Word%20Count.java)|58 ms|
 |2285|[ Maximum Total Importance of Roads](https://leetcode.com/problems/maximum-total-importance-of-roads/)|[Java](./solutions/2285.%20Maximum%20Total%20Importance%20of%20Roads.java)|6 ms|
 |2293|[ Min Max Game](https://leetcode.com/problems/min-max-game/)|[Java](./solutions/2293.%20Min%20Max%20Game.java)|3 ms|
+|2294|[ Partition Array Such That Maximum Difference Is K](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/)|[Java](./solutions/2294.%20Partition%20Array%20Such%20That%20Maximum%20Difference%20Is%20K.java)|73 ms|
