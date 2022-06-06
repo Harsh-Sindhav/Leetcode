@@ -19,6 +19,7 @@
 |90|[ Subsets II](https://leetcode.com/problems/subsets-ii/)|[Java](./solutions/90.%20Subsets%20II.java)|2 ms|
 |153|[ Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Java](./solutions/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.java)|0 ms|
 |154|[ Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)|[Java](./solutions/154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II.java)|1 ms|
+|160|[ Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[Java](./solutions/160.%20Intersection%20of%20Two%20Linked%20Lists.java)|2 ms|
 |191|[ Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[Java](./solutions/191.%20Number%20of%201%20Bits.java)|0 ms|
 |207|[ Course Schedule](https://leetcode.com/problems/course-schedule/)|[Java](./solutions/207.%20Course%20Schedule.java)|10 ms|
 |238|[ Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[Java](./solutions/238.%20Product%20of%20Array%20Except%20Self.java)|2 ms|
