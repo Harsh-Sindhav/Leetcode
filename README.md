@@ -14,6 +14,7 @@
 |52|[ N-Queens II](https://leetcode.com/problems/n-queens-ii/)|[Java](./solutions/52.%20N-Queens%20II.java)|3 ms|
 |72|[ Edit Distance](https://leetcode.com/problems/edit-distance/)|[Java](./solutions/72.%20Edit%20Distance.java)|14 ms|
 |75|[ Sort Colors](https://leetcode.com/problems/sort-colors/)|[Java](./solutions/75.%20Sort%20Colors.java)|0 ms|
+|76|[ Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[Java](./solutions/76.%20Minimum%20Window%20Substring.java)|14 ms|
 |82|[ Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[Java](./solutions/82.%20Remove%20Duplicates%20from%20Sorted%20List%20II.java)|1 ms|
 |83|[ Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Java](./solutions/83.%20Remove%20Duplicates%20from%20Sorted%20List.java)|1 ms|
 |86|[ Partition List](https://leetcode.com/problems/partition-list/)|[Java](./solutions/86.%20Partition%20List.java)|0 ms|
