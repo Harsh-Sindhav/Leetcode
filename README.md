@@ -46,6 +46,7 @@
 |797|[ All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)|[Java](./solutions/797.%20All%20Paths%20From%20Source%20to%20Target.java)|3 ms|
 |867|[ Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|[Java](./solutions/867.%20Transpose%20Matrix.java)|0 ms|
 |871|[ Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/)|[Java](./solutions/871.%20Minimum%20Number%20of%20Refueling%20Stops.java)|10 ms|
+|1048|[ Longest String Chain](https://leetcode.com/problems/longest-string-chain/)|[Java](./solutions/1048.%20Longest%20String%20Chain.java)|30 ms|
 |1170|[ Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/)|[Java](./solutions/1170.%20Compare%20Strings%20by%20Frequency%20of%20the%20Smallest%20Character.java)|8 ms|
 |1248|[ Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/)|[Java](./solutions/1248.%20Count%20Number%20of%20Nice%20Subarrays.java)|15 ms|
 |1332|[ Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/)|[Java](./solutions/1332.%20Remove%20Palindromic%20Subsequences.java)|0 ms|
