@@ -3,6 +3,7 @@
 | # | Title | Solution | Runtime |
 |---| ----- | -------- | ------- |
 |3|[ Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Java](./solutions/3.%20Longest%20Substring%20Without%20Repeating%20Characters.java)|22 ms|
+|5|[ Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[Java](./solutions/5.%20Longest%20Palindromic%20Substring.java)|701 ms|
 |6|[ Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[Java](./solutions/6.%20Zigzag%20Conversion.java)|12 ms|
 |7|[ Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Java](./solutions/7.%20Reverse%20Integer.java)|2 ms|
 |14|[ Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Java](./solutions/14.%20Longest%20Common%20Prefix.java)|1 ms|
