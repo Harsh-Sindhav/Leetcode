@@ -13,6 +13,7 @@
 |49|[ Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Java](./solutions/49.%20Group%20Anagrams.java)|10 ms|
 |51|[ N-Queens](https://leetcode.com/problems/n-queens/)|[Java](./solutions/51.%20N-Queens.java)|4 ms|
 |52|[ N-Queens II](https://leetcode.com/problems/n-queens-ii/)|[Java](./solutions/52.%20N-Queens%20II.java)|3 ms|
+|62|[ Unique Paths](https://leetcode.com/problems/unique-paths/)|[Java](./solutions/62.%20Unique%20Paths.java)|0 ms|
 |72|[ Edit Distance](https://leetcode.com/problems/edit-distance/)|[Java](./solutions/72.%20Edit%20Distance.java)|14 ms|
 |75|[ Sort Colors](https://leetcode.com/problems/sort-colors/)|[Java](./solutions/75.%20Sort%20Colors.java)|0 ms|
 |76|[ Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[Java](./solutions/76.%20Minimum%20Window%20Substring.java)|14 ms|
